@@ -1,0 +1,19 @@
+{
+  "name": "homework7",
+  "version": "0.17.4",
+  "description": "home7",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server-auth --watch db.json -r routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "siit-assignment-07                                                                                                     "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "json-server-auth": "^2.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "users": {
+      "GET": {
+        "permission": 600
+        },
+      "POST": {
+        "permission": 600
+        },
+      "PUT": {
+        "permission": 600
+        },
+      "DELETE": {
+        "permission": 600
+        }
+    }
+  }
+  
